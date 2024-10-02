@@ -34,7 +34,7 @@ This was built in Linux Mint so bugs are possible with other Debian distros
 
 ## How to Uninstall
 
-### "Navigate to /uninstall/uninstall.sh"
+### "Navigate to ./uninstall/uninstall.sh"
 1. Make it executable (see above)
 2. Run "uninstall.sh"
 
