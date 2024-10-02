@@ -1,2 +1,15 @@
-# ResolveDeb1Click
-Ever tried to install DaVinci Resolve on a Debian (Ubuntu) based system and found yourself frustrated at errors? ResolveDeb1Click is designed to be 1 click solution to installing DaVinci Resolve
+# DaVinci Resolve Installer for Debian-based Linux (Ubuntu/Mint)
+
+## Installation
+Download DaVinci Resolve (.zip)
+
+Download MakeResolveDeb
+
+Download the latest release of ResolveDeb1Click (.zip)
+
+Extract the .zip
+
+### Make "install.sh" Executable
+
+
+or **Terminal** `chmod +x ResolveDeb1Click-v1.0/install.sh`
