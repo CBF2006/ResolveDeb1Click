@@ -8,7 +8,9 @@
 
 [Download the latest release of ResolveDeb1Click](https://github.com/CBF2006/ResolveDeb1Click/releases) (.zip)
 
-Extract the .zip
+Extract the ResolveDeb1Click-v0.1.0.zip
+
+## Place the "MakeResolveDeb" & "DaVinci_Resolve" .zip/.tar.gz files inside the /deb folder inside the ResolveDeb1Click folder
 
 ### Make "install.sh" Executable
 ![image](https://github.com/user-attachments/assets/2f25f0c2-5442-478c-9796-b822be77a9c7)
