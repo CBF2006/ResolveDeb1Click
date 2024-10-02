@@ -1,5 +1,5 @@
 # DaVinci Resolve Installer for Debian-based Linux (Ubuntu/Mint)
-
+**This was originally designed in Linux Mint 22.** *If you run into issues on other distributions, let me know!*
 ## Installation
 [Download DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) (.zip)
 * *DaVinci Resolve or DaVinci Resolve Studio works*
