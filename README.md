@@ -1,5 +1,11 @@
 # DaVinci Resolve Installer for Debian-based Linux (Ubuntu/Mint)
 **This was originally designed in Linux Mint 22.** *If you run into issues on other distributions, let me know!*
+
+## Current Version - v0.1.1
+Released October 3, 2024
+
+[Patch Notes](https://github.com/CBF2006/ResolveDeb1Click/releases/tag/v0.1.1)
+
 ## Installation
 [Download DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) (.zip)
 * *DaVinci Resolve or DaVinci Resolve Studio works*
@@ -8,7 +14,7 @@
 
 [Download the latest release of ResolveDeb1Click](https://github.com/CBF2006/ResolveDeb1Click/releases) (.zip)
 
-Extract the ResolveDeb1Click-v0.1.0.zip
+Extract the ResolveDeb1Click-0.1.1.zip
 
 ## Place the "MakeResolveDeb" & "DaVinci_Resolve" .zip/.tar.gz files inside the /deb folder inside the ResolveDeb1Click folder
 
