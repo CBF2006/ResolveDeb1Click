@@ -16,18 +16,21 @@ Released October 3, 2024
 [Patch Notes](https://github.com/CBF2006/ResolveDeb1Click/releases/tag/v0.1.1)
 
 ## Installation
-[Download DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) (.zip)
-* *DaVinci Resolve or DaVinci Resolve Studio works*
+1. [Download DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) (.zip)
+   * *DaVinci Resolve or DaVinci Resolve Studio works*
 
-[Download MakeResolveDeb](https://www.danieltufvesson.com/makeresolvedeb)
+2. [Download MakeResolveDeb](https://www.danieltufvesson.com/makeresolvedeb)
 
-[Download the latest release of ResolveDeb1Click](https://github.com/CBF2006/ResolveDeb1Click/releases) (.zip)
+3. [Download the latest release of ResolveDeb1Click](https://github.com/CBF2006/ResolveDeb1Click/releases) (.zip)
 
-Extract the ResolveDeb1Click-0.1.1.zip
+4. Extract the ResolveDeb1Click-0.1.1.zip
 
-## Place the "MakeResolveDeb" & "DaVinci_Resolve" .zip/.tar.gz files inside the /deb folder inside the ResolveDeb1Click folder
+![image](https://github.com/user-attachments/assets/38996127-f762-4d70-98fa-459a53da9dd4)
 
-### Make "install.sh" Executable
+
+## 5. Place the "MakeResolveDeb" & "DaVinci_Resolve" .zip/.tar.gz files inside the /deb folder
+
+### 6. Make "install.sh" Executable
 ![image](https://github.com/user-attachments/assets/2f25f0c2-5442-478c-9796-b822be77a9c7)
 
 ![image](https://github.com/user-attachments/assets/712fca90-d810-4120-b8ad-c084898496fc)
@@ -37,7 +40,7 @@ or **Terminal** `chmod +x ./ResolveDeb1Click-v1.0/install.sh`
 * *(For new Linux users)* **please use `cd "directory here"` to navigate to the right directory**
   * ex. `cd Downloads` **the Terminal is case-sensitive**
 
-### Run "install.sh"
+### 7. Run "install.sh"
 - If prompted, click "Run in Terminal"
 
 You should be all set!
