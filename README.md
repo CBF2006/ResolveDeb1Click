@@ -1,5 +1,3 @@
-[![Custom Icon](https://github.com/CBF2006/ResolveDeb1Click/blob/main/src/resolve-deb-1-click.png)](https://github.com/CBF2006/ResolveDeb1Click/blob/main/install.sh)
-
 # DaVinci Resolve Installer for Debian-based Linux (Ubuntu/Mint)
 **This was originally designed in Linux Mint 22.** *If you run into issues on other distributions, let me know!*
 
