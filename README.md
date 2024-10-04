@@ -8,7 +8,7 @@
 - Installs ROCm/CUDA toolkits
 - Adds custom menu entry
 
-TLDR: ResolveDeb1Click takes the pain of installing DaVinci Resolve on modern-based Linux operating systems, and **makes a simple 1-click procees**
+TLDR: ResolveDeb1Click takes the pain of installing DaVinci Resolve on modern Debian-based Linux operating systems, and **makes a simple 1-click procees**
 
 ## Current Version - v0.1.1
 Released October 3, 2024
